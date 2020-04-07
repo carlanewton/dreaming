@@ -1,0 +1,72 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+h2{
+  font-family: 'Kumar One', cursive;
+  color: white;
+  font-size: 2em;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+#draw_here{
+  position:absolute;
+  top:10%;
+  left:10%;
+  height: 20%;
+}
+
+#z_animation{
+  position: absolute;
+  top: 10%;
+  right: 5%;
+  height: 50%;
+}
+
+
+#can {
+position: absolute;
+top:5%;
+left:5%;
+}
+
+#canvasimg{
+  position:absolute;
+  top:10%;
+  left:52%;
+  display:none;
+}
+
+#clr{
+  position:absolute;
+  top:2%;
+  left:2%;
+
+}
+
+#logo{
+  position:absolute;
+  top:35%;
+  left:20%;
+  height: 40%;
+}
+
+.shop_link {
+  position:absolute;
+  top:80%;
+  left:28%;
+}
+
+.about_link{
+  position: absolute;
+  top: 80%;
+  left: 58%;
+}
